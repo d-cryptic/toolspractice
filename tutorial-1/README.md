@@ -16,3 +16,7 @@ echo <PASSWORD> | base64 --decode
 
 # Links 
 
+- [Youtube Video](https://www.youtube.com/watch?v=MeU5_k9ssrs)
+- [Argocd Installation](https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli)
+- [Github Repo](https://github.com/d-cryptic/toolspractice/tree/master/tutorial-1) 
+
